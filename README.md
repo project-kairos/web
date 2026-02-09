@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kairos Web 🌐
 
-## Getting Started
+### The Public Face of Kairos
 
-First, run the development server:
+This repository houses the landing page and waitlist system for **Kairos** (Project Kairos). It serves as the primary entry point for users to discover the project, understand its value proposition, and sign up for early access updates.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🎨 Design Philosophy: "The Calm Control Room"
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The design aesthetic is intentionally distinct from typical SaaS marketing pages. It reflects the technical, agentic nature of the product.
+*   **Palette:** Slate-950 (Midnight), Indigo-500 (Intelligence), Emerald-300 (Status).
+*   **Visuals:** Subtle animated starfield (representing the "matrix" of time), glassmorphism cards, and monospaced data accents.
+*   **Vibe:** Professional, calm, and autonomous.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### ⚡ Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+*   **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
+*   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+*   **Icons:** [Lucide React](https://lucide.dev/)
+*   **Deployment:** Vercel (Edge Network)
+*   **Backend:** Serverless API Routes (Google Sheets Integration)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+### 📜 License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This website code is open-source under the **CC BY-NC-SA 4.0** license.
+*   **Attribution:** You must credit Project Kairos if you use this design.
+*   **Non-Commercial:** You cannot use this code for commercial product landing pages without permission.
+*   **ShareAlike:** Derivative works must use the same license.
